@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">MusicalStructureApp</string>
+  <string name="label_home_activity">My JukeBox</string>
+  <string name="label_now_playing">Currently Playing</string>
+  <string name="label_playlist">Playlists</string>
+
+  <string name="main_activity_description">This Activity shows the list of available audio
+    files on user device. In the bottom of activity user will see a player if an audio is
+    already planning. This Activity will have a navigation bar from where user can navigate to
+    other sections of app such as play list activity, user preference activity..
+  </string>
+  <string name="label_home_activity_current_playing_nav_btn">Currently Playing</string>
+  <string name="label_home_activity_playlist_nav_btn">See your playlists</string>
+
+  <string name="currently_playing_activity_description">This Activity will show the UI for
+    currently playing song. It will have ui controls to play/pause, audio enhancements, mark song
+    as favorite, share with friends
+  </string>
+  <string name="label_currently_activity_home_nav_btn">Goto Home Page</string>
+
+  <string name="playlist_activity_description">This Activity will show the playlists of user.
+    User can create,modify,delete playlist
+  </string>
+  <string name="label_playlist_activity_home_nav_btn">Goto Home Page</string>
+
+</resources>
